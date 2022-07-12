@@ -1,18 +1,6 @@
 [
   {
-    "package": "cd",
-    "oncran": true
-  },
-  {
     "package": "clevr",
-    "oncran": true
-  },
-  {
-    "package": "cora",
-    "oncran": true
-  },
-  {
-    "package": "restaurant",
     "oncran": true
   }
 ]
