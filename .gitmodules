@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cd"]
-	path = cd
-	url = https://github.com/cleanzr/cd
-	shallow = true
-	registered = true
 [submodule "clevr"]
 	path = clevr
 	url = https://github.com/cleanzr/clevr
@@ -21,5 +16,10 @@
 [submodule "restaurant"]
 	path = restaurant
 	url = https://github.com/cleanzr/restaurant
+	shallow = true
+	registered = true
+[submodule "cd"]
+	path = cd
+	url = https://github.com/cleanzr/cd
 	shallow = true
 	registered = true

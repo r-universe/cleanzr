@@ -1,9 +1,5 @@
 [
   {
-    "package": "cd",
-    "oncran": true
-  },
-  {
     "package": "clevr",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "restaurant",
+    "oncran": true
+  },
+  {
+    "package": "cd",
     "oncran": true
   }
 ]
