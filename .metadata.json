@@ -1,5 +1,9 @@
 [
   {
+    "package": "blink",
+    "oncran": true
+  },
+  {
     "package": "cd",
     "oncran": true
   },
@@ -9,6 +13,18 @@
   },
   {
     "package": "cora",
+    "oncran": true
+  },
+  {
+    "package": "italy",
+    "oncran": true
+  },
+  {
+    "package": "klsh",
+    "oncran": true
+  },
+  {
+    "package": "representr",
     "oncran": true
   },
   {
