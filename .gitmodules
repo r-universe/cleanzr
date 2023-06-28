@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "blink"]
 	path = blink
 	url = https://github.com/cleanzr/blink
-	shallow = true
-	registered = true
 [submodule "cd"]
 	path = cd
 	url = https://github.com/cleanzr/cd
-	shallow = true
-	registered = true
 [submodule "clevr"]
 	path = clevr
 	url = https://github.com/cleanzr/clevr
-	shallow = true
-	registered = true
 [submodule "cora"]
 	path = cora
 	url = https://github.com/cleanzr/cora
-	shallow = true
-	registered = true
 [submodule "italy"]
 	path = italy
 	url = https://github.com/cleanzr/italy
-	shallow = true
-	registered = true
 [submodule "klsh"]
 	path = klsh
 	url = https://github.com/cleanzr/klsh
-	shallow = true
-	registered = true
 [submodule "representr"]
 	path = representr
 	url = https://github.com/cleanzr/representr
-	shallow = true
-	registered = true
 [submodule "restaurant"]
 	path = restaurant
 	url = https://github.com/cleanzr/restaurant
-	shallow = true
-	registered = true
